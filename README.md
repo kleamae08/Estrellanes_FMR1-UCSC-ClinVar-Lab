@@ -1,6 +1,4 @@
 
-Oo, kani na ang corrected, ready-to-copy version. Gi-fix na nako ang review status ug conservation wording para mas aligned sa instruction.
-
 # Exploring a Human Disease Gene Using UCSC Genome Browser and NCBI ClinVar
 ## Student Information
 **Name:** Estrellanes, Klea Mae G.  
