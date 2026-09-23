@@ -36,7 +36,7 @@ The **NCBI RefSeq curated** track was used to examine the structure of FMR1. The
 Exons are regions that remain in the mature RNA after RNA processing, while introns are intervening sequences removed during RNA splicing. In the UCSC Genome Browser, exons appeared as boxed regions, while introns appeared as connecting lines between the exon boxes.
 The introns of FMR1 generally appeared much longer than the exons. Multiple transcript isoforms were also visible, showing that FMR1 can be processed into different transcript forms.
 ### Screenshot 2 – Gene Structure
-![FMR1 Gene Structure](screenshots/02_gene_structure.png)
+![FMR1 gene structure](02_gene_structure.png.PNG)
 ---
 # 4. UCSC Annotation Tracks
 The following annotation tracks were examined:
@@ -49,7 +49,7 @@ ClinVar-related variant marks were visible within the FMR1 gene region.
 Some regions showed stronger conservation signals than others. Several stronger peaks occurred within the FMR1 gene region, although not all exons and introns showed the same level of conservation.
 Strong conservation across different species may suggest biological importance because important DNA sequences are often maintained during evolution. Regions that are highly conserved may be less tolerant of sequence changes because they may have important structural or regulatory functions.
 ### Screenshot 3 – Annotation Tracks
-![FMR1 UCSC Tracks](screenshots/03_tracks.png)
+![FMR1 RefSeq transcript details](03_refseq_details.png)
 ---
 # 5. Selected ClinVar Variant
 A documented FMR1 variant was selected from NCBI ClinVar.
@@ -72,7 +72,7 @@ A documented FMR1 variant was selected from NCBI ClinVar.
 | Associated disease | Fragile X syndrome |
 The selected variant changes coding nucleotide 80 from cytosine to adenine. This results in a nonsense mutation that changes serine at amino-acid position 27 into a premature stop codon.
 ### Screenshot 4 – ClinVar Record
-![FMR1 ClinVar Variant](screenshots/04_clinvar_variant.png)
+![FMR1 ClinVar variant](04_clinvar_variant.png.PNG)
 ### ClinVar Record
 https://www.ncbi.nlm.nih.gov/clinvar/variation/29987/
 ---
@@ -92,7 +92,7 @@ The c.80C>A substitution changes the codon for serine at amino-acid position 27 
 **e. What additional evidence would be needed before concluding that the variant causes disease?**  
 Additional experimental evidence would be needed to determine the effect of the variant on FMRP production, stability, localization, cellular function, and disease phenotype. Functional experiments and published clinical evidence can provide stronger support for the biological consequences of the variant.
 ### Screenshot 5 – Variant in UCSC
-![FMR1 Variant in UCSC](screenshots/05_variant_in_ucsc.png)
+![FMR1 variant location in UCSC](05_variant_in_ucsc.png.PNG)
 ---
 # 7. Interpretation
 The UCSC Genome Browser made it possible to connect the FMR1 variant to its exact location within the gene. The c.80C>A variant is located in a coding exon and corresponds to amino-acid position 27.
