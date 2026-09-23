@@ -25,7 +25,7 @@ The FMR1 gene was searched using the UCSC Genome Browser with the human **GRCh38
 | Selected transcript | NM_002024.6 |
 The UCSC Genome Browser showed FMR1 on chromosome X at Xq27.3. The gene spans approximately 39.2 kb in the GRCh38/hg38 assembly.
 ### Screenshot 1 – Gene Location
-01_gene_location.png.PNG
+![FMR1 gene location](01_gene_location.png.PNG)
 ---
 # 3. Exons, Introns, and Transcripts
 The **NCBI RefSeq curated** track was used to examine the structure of FMR1. The selected transcript for exon counting was **NM_002024.6**.
